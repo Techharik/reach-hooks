@@ -11,6 +11,7 @@ import Auth from './useAuth'
 
 // In useEffect: React updates the DOM first, then runs the useEffect hook. Any state updates within useEffect will cause a new render, but they don’t affect the current render.
 
+
 // usedeferredValue: once the componet is updating instaed of falling back to loading component the deferredvalus is taken as  priorty , deffered value rather fallback to the supense loading state use the previous sratae
 // Showing stale content while fresh content is loading 
 
